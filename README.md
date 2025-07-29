@@ -31,5 +31,12 @@ Organizes files in a specified directory into folders based on file type (e.g., 
 - Run the script
 - Files will move to folders like `Images/`, `Documents/`, `Others/`, etc.
 
+## ⚡ Usage
+**Clone the repository:**
+```bash
+git clone git@github.com:alphatushar/file-organizer.git
+```
+
+---
 ## Author
 Tushar Sharma
