@@ -38,5 +38,6 @@ git clone git@github.com:alphatushar/file-organizer.git
 ```
 
 ---
+
 ## Author
 Tushar Sharma
