@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Change this to the folder you want to organize
-path = '/Users/tusharsharma/Downloads'
+path = '/Users/yourusername/Downloads'
 
 file_types = {
     'Images': ['.jpg', '.jpeg', '.png', '.gif'],
