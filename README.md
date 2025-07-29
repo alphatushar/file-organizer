@@ -39,5 +39,11 @@ git clone git@github.com:alphatushar/file-organizer.git
 
 ---
 
+### Services
+- Python script that organizes files by type
+- Runs locally, no containers
+
+---
+
 ## Author
 Tushar Sharma
